@@ -14,3 +14,4 @@ zxcvbn
 GitPython
 markdown2
 git+https://github.com/g2p/rfc6266#egg=rfc6266
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
